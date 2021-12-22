@@ -11,6 +11,8 @@ npm i -g @angular/cli
 ng new minha-appp
 
 
+Criar componentes:<br>
+ng g c components/template/....
 
 
 

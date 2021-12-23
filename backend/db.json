@@ -19,6 +19,16 @@
       "name": "Gelareira Brastemp",
       "price": "2312.99",
       "id": 4
+    },
+    {
+      "name": "Produto de teste",
+      "price": 129.98,
+      "id": 5
+    },
+    {
+      "name": "Produto de teste",
+      "price": 129.98,
+      "id": 6
     }
   ]
 }
